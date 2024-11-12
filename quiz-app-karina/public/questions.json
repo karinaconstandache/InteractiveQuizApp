@@ -1,0 +1,54 @@
+{
+    "Geografie": [
+      {
+        "question": "Care este cel mai lung fluviu din Europa?",
+        "options": ["Dunărea", "Volga", "Rinul"],
+        "correctAnswer": "Volga"
+      },
+      {
+        "question": "Ce țară este cunoscută drept 'Țara Soarelui Răsare'?",
+        "options": ["Japonia", "Rusia", "China"],
+        "correctAnswer": "Japonia"
+      },
+      {
+        "question": "Care este cea mai mare țară din lume după suprafață?",
+        "options": ["Brazilia", "Canada", "Rusia"],
+        "correctAnswer": "Rusia"
+      }
+    ],
+    "Istorie": [
+      {
+        "question": "În ce an a avut loc Marea Unire a României?",
+        "options": ["1600", "1859", "1918"],
+        "correctAnswer": "1918"
+      },
+      {
+        "question": "Ce domnitor român a inițiat Reforma Agrară în 1864?",
+        "options": ["Ștefan cel Mare", "Alexandru Ioan Cuza", "Carol I"],
+        "correctAnswer": "Alexandru Ioan Cuza"
+      },
+      {
+        "question": "Cine a fost primul rege al României?",
+        "options": ["Carol I", "Regele Mihai", "Ferdinand I"],
+        "correctAnswer": "Carol I"
+      }
+    ],
+    "Literatura": [
+      {
+        "question": "Cine este autorul romanului 'Ion'?",
+        "options": ["Ioan Slavici", "Mihail Sadoveanu", "Liviu Rebreanu"],
+        "correctAnswer": "Liviu Rebreanu"
+      },
+      {
+        "question": "Care este specia literară a operei 'Moara cu noroc' de Ioan Slavici?",
+        "options": ["Nuvelă", "Roman", "Schiță"],
+        "correctAnswer": "Nuvelă"
+      },
+      {
+        "question": "În ce curent literar se încadrează poeziile lui Mihai Eminescu?",
+        "options": ["Modernism", "Romantism", "Clasicism"],
+        "correctAnswer": "Romantism"
+      }
+    ]
+  }
+  
